@@ -1,0 +1,16 @@
+Continent,Segment,TotalCases
+Africa,NewCases,6695
+Africa,NewDeaths,202
+Africa,NewRecovered,5411
+Asia,NewCases,444401
+Asia,NewDeaths,3436
+Asia,NewRecovered,310756
+Europe,NewCases,156380
+Europe,NewDeaths,3142
+Europe,NewRecovered,135239
+North America,NewCases,82768
+North America,NewDeaths,1552
+North America,NewRecovered,70855
+South America,NewCases,113259
+South America,NewDeaths,3631
+South America,NewRecovered,85489
